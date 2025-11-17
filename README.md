@@ -1,3 +1,3 @@
 # Hammad-Ali
-![](https://leetcard.jacoblin.cool/Hammad_Ali?animation=true)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Hammad_Ali?theme=dark&font=Baloo&ext=activity)
 
