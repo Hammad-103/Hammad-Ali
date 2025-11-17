@@ -10,9 +10,8 @@
 
 ### A Little About Me  
 <div align="justify">
-I’m a JavaScript developer who values clarity, simplicity, and results. I focus on building solutions that work in the real world rather than chasing perfection.
+I’m a JavaScript developer who values clarity, simplicity, and results. I focus on building solutions that work in the real world rather than chasing perfection.Through LeetCode and hands-on projects, I’ve developed strong problem-solving skills and a practical approach to development. From debugging issues to creating new features, I prioritize clean, maintainable, and effective solutions.
 
-Through LeetCode and hands-on projects, I’ve developed strong problem-solving skills and a practical approach to development. From debugging issues to creating new features, I prioritize clean, maintainable, and effective solutions.
 </div>  
   
 
@@ -28,7 +27,7 @@ Through LeetCode and hands-on projects, I’ve developed strong problem-solving 
 </div>
 
 ---
-
+## Leetcode stats 
 ![LeetCode Ranking](https://leetcard.jacoblin.cool/Hammad-Ali?theme=dark&font=Poppins&ext=activity)
 
 
