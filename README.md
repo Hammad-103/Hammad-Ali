@@ -8,7 +8,6 @@
   </a>  
 </div>
 
----
 ### A Little About Me  
 <div align="justify">
 I’m a JavaScript developer who values clarity, simplicity, and results. I focus on building solutions that work in the real world rather than chasing perfection.
