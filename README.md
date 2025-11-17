@@ -11,7 +11,7 @@
 
 
 
-## About Me  
+### About Me  
 <div align="justify">
 I’m a JavaScript developer who values clarity, simplicity, and real-world results.  
 Through hands-on projects and continuous LeetCode practice, I’ve shaped strong problem-solving skills and a clean, maintainable coding style.  
