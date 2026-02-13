@@ -41,7 +41,7 @@ Whether it's debugging issues or building new features, I focus on writing effec
 
 ##  LeetCode Stats  
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Hammad-Ali?theme=dark&font=Poppins&ext=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Hammad Ali?theme=dark&font=Poppins&ext=activity" alt="LeetCode Stats" />
 </div>
 
 
