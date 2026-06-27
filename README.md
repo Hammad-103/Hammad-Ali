@@ -14,7 +14,7 @@
 <div align="justify">
 I'm a web app developer and I build things that work the first time, every time.Modern JavaScript frameworks, clean architecture, and a sharp eye for performance... that's my toolkit and I use it to build responsive, scalable web applications that actually move the needle for businesses. Clean code isn't a nice to have for me, it's the only way I operate.
   
-Pixel perfect frontends, optimized performance... that's the baseline, not the bonus.I don't chase trends, I solve problems. That's what gets me up in the morning.
+Pixel perfect frontends, optimized performance that's the baseline, not the bonus.I don't chase trends, I solve problems. That's what gets me up in the morning.
 
 </div>
 
