@@ -53,7 +53,12 @@ Pixel perfect frontends, optimized performance that's the baseline, not the bonu
 - Integrating AI/LLM features (LangChain, RAG) into real products
 - Strengthening Data Structures & Algorithms
 - Preparing for full-stack / backend developer roles
-
+  
+##  Featured Projects 
+ - **Emerald AI**      Full-stack AI chat assistant
+ - **E-Commerce API**  Backend REST API with cart, checkout, RBAC
+ - **Interview Bot**   React app for mock interviews
+ - **Portfolio Site**  Personal portfolio showcasing my work
 
 ## Contact  
 If you want to collaborate or discuss ideas, feel free to reach out on LinkedIn!
